@@ -1,0 +1,6 @@
+[
+  {"id": "source-aurora-times", "name": "Aurora Times", "channel": "news", "url": "https://auroratimes.example"},
+  {"id": "source-river-social", "name": "@RiverWatch", "channel": "social", "url": "https://social.example/riverwatch"},
+  {"id": "source-climate-brief", "name": "Climate Briefing", "channel": "blog", "url": "https://climatebrief.example"},
+  {"id": "source-energy-pdf", "name": "Department of Energy", "channel": "pdf", "url": "https://energy.example/pdfs"}
+]

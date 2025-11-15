@@ -1,0 +1,20 @@
+{"ancestor_id": "node-river-report", "descendant_id": "node-aurora-alert", "relation": "quote", "rationale": "newsroom cites PDF"}
+{"ancestor_id": "node-aurora-alert", "descendant_id": "node-riverwatch-thread", "relation": "quote"}
+{"ancestor_id": "node-aurora-alert", "descendant_id": "node-climate-brief-river", "relation": "summary"}
+{"ancestor_id": "node-climate-brief-river", "descendant_id": "node-community-forum", "relation": "quote"}
+{"ancestor_id": "node-radio-update", "descendant_id": "node-riverwatch-followup", "relation": "summary"}
+{"ancestor_id": "node-riverwatch-followup", "descendant_id": "node-riverwrap", "relation": "summary"}
+{"ancestor_id": "node-solar-whitepaper", "descendant_id": "node-energy-beat", "relation": "quote"}
+{"ancestor_id": "node-energy-beat", "descendant_id": "node-tech-capsule", "relation": "paraphrase"}
+{"ancestor_id": "node-energy-beat", "descendant_id": "node-hospital-social", "relation": "summary"}
+{"ancestor_id": "node-tech-capsule", "descendant_id": "node-grid-analyst", "relation": "summary"}
+{"ancestor_id": "node-grid-analyst", "descendant_id": "node-solar-weekly", "relation": "summary"}
+{"ancestor_id": "node-solar-whitepaper", "descendant_id": "node-investor-note", "relation": "summary"}
+{"ancestor_id": "node-supply-memo", "descendant_id": "node-maritime-journal", "relation": "quote"}
+{"ancestor_id": "node-maritime-journal", "descendant_id": "node-logistics-blog", "relation": "paraphrase"}
+{"ancestor_id": "node-supply-memo", "descendant_id": "node-supply-social", "relation": "quote"}
+{"ancestor_id": "node-logistics-blog", "descendant_id": "node-retail-brief", "relation": "summary"}
+{"ancestor_id": "node-retail-brief", "descendant_id": "node-trade-radio", "relation": "summary"}
+{"ancestor_id": "node-trade-radio", "descendant_id": "node-supply-analyst", "relation": "summary"}
+{"ancestor_id": "node-supply-analyst", "descendant_id": "node-importers-call", "relation": "summary"}
+{"ancestor_id": "node-importers-call", "descendant_id": "node-freight-weekly", "relation": "summary"}

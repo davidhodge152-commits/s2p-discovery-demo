@@ -1,0 +1,48 @@
+[project]
+name = "iio-demo"
+version = "0.1.0"
+description = "Interactive Information Integrity Observatory demo"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi==0.110.0",
+    "uvicorn[standard]==0.29.0",
+    "pydantic==2.6.4",
+    "pydantic-settings==2.2.1",
+    "python-multipart==0.0.9",
+    "networkx==3.2.1",
+    "scikit-learn==1.4.2",
+    "spacy==3.7.2",
+    "datasketch==1.5.5",
+    "textdistance==4.6.2",
+    "rapidfuzz==3.6.1",
+    "pandas==2.2.2",
+    "numpy==1.26.4",
+    "aiofiles==23.2.1",
+    "python-dateutil==2.9.0.post0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==8.2.1",
+    "httpx==0.27.0",
+    "pytest-asyncio==0.23.6",
+    "mypy==1.10.0",
+    "ruff==0.4.0",
+    "black==24.4.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "B", "I"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+pythonpath = ["backend"]
+

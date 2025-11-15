@@ -1,0 +1,12 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#0f172a" />
+  <text x="60" y="60" fill="#94a3b8" font-size="28" font-family="Inter, sans-serif">IIO Demo Preview</text>
+  <circle cx="180" cy="220" r="60" fill="none" stroke="#60a5fa" stroke-width="4" />
+  <circle cx="300" cy="160" r="30" fill="#34d399" opacity="0.7" />
+  <circle cx="100" cy="140" r="25" fill="#f97316" opacity="0.7" />
+  <line x1="420" y1="140" x2="720" y2="340" stroke="#34d399" stroke-width="6" stroke-linecap="round" />
+  <rect x="420" y="300" width="240" height="80" fill="#1e293b" stroke="#f472b6" stroke-width="2" />
+  <text x="440" y="330" fill="#f472b6" font-size="18" font-family="Inter, sans-serif">Timeline buckets</text>
+  <text x="120" y="340" fill="#60a5fa" font-size="18" font-family="Inter, sans-serif">Provenance graph</text>
+  <text x="60" y="390" fill="#cbd5f5" font-size="14" font-family="Inter, sans-serif">Illustrative render of the graph and timeline experience</text>
+</svg>
