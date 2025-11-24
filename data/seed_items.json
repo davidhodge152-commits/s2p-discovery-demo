@@ -1,0 +1,211 @@
+[
+  {
+    "id": "node-river-report",
+    "text": "Regional Water Authority report: \"River bend samples show elevated nitrate levels following upstream runoff.\" The document outlines monitoring steps and community alerts.",
+    "source": "Regional Water Authority",
+    "channel": "pdf",
+    "url": "https://docs.example/river-report.pdf",
+    "timestamp": "2025-05-01T08:00:00Z",
+    "claims": ["River bend samples show elevated nitrate levels", "Monitoring steps will continue"]
+  },
+  {
+    "id": "node-aurora-alert",
+    "text": "Aurora Times reports that the River bend samples show elevated nitrate levels and officials warn residents to avoid drawing water until Saturday.",
+    "source": "Aurora Times",
+    "channel": "news",
+    "url": "https://auroratimes.example/river-alert",
+    "timestamp": "2025-05-01T12:30:00Z"
+  },
+  {
+    "id": "node-riverwatch-thread",
+    "text": "@RiverWatch: Heads up neighbors, water agency says \"River bend samples show elevated nitrate levels\" so maybe skip the tap this week.",
+    "source": "@RiverWatch",
+    "channel": "social",
+    "url": "https://social.example/posts/123",
+    "timestamp": "2025-05-01T13:05:00Z"
+  },
+  {
+    "id": "node-climate-brief-river",
+    "text": "Climate Briefing summarizes: River bend nitrate levels spike after upstream runoff according to the water authority report, but filtration upgrades are scheduled.",
+    "source": "Climate Briefing",
+    "channel": "blog",
+    "url": "https://climatebrief.example/river-nitrates",
+    "timestamp": "2025-05-01T16:45:00Z"
+  },
+  {
+    "id": "node-community-forum",
+    "text": "Community forum recap: Residents heard the water authority explain the nitrate spike and quote \"avoid drawing water until Saturday\" during the town hall.",
+    "source": "Northbank Forum",
+    "channel": "blog",
+    "url": "https://forum.example/townhall",
+    "timestamp": "2025-05-02T02:20:00Z"
+  },
+  {
+    "id": "node-radio-update",
+    "text": "Local Radio bulletin says the water authority will flush mains overnight and expects nitrate levels to settle by Saturday morning.",
+    "source": "WNBK Radio",
+    "channel": "news",
+    "url": "https://radio.example/bulletins/river",
+    "timestamp": "2025-05-02T10:15:00Z"
+  },
+  {
+    "id": "node-riverwatch-followup",
+    "text": "@RiverWatch update: crews flushing mains tonight, nitrate alert likely lifted Saturday per officials.",
+    "source": "@RiverWatch",
+    "channel": "social",
+    "url": "https://social.example/posts/126",
+    "timestamp": "2025-05-02T11:00:00Z"
+  },
+  {
+    "id": "node-river-photo",
+    "text": "Photo essay: Volunteers distribute bottled water after the nitrate alert along River bend.",
+    "source": "Aurora Lens",
+    "channel": "news",
+    "url": "https://auroralens.example/river-photos",
+    "timestamp": "2025-05-03T14:00:00Z"
+  },
+  {
+    "id": "node-riverwrap",
+    "text": "Weekend wrap: River nitrate scare fades as Saturday tests confirm safe levels; officials say filtration upgrades start Monday.",
+    "source": "Aurora Times",
+    "channel": "news",
+    "url": "https://auroratimes.example/weekend-wrap",
+    "timestamp": "2025-05-04T18:30:00Z"
+  },
+  {
+    "id": "node-solar-whitepaper",
+    "text": "Energy Department whitepaper \"BrightGrid Initiative\" details a pilot microgrid providing 5MW solar backup for three hospitals with phased deployment timeline.",
+    "source": "Department of Energy",
+    "channel": "pdf",
+    "url": "https://energy.example/pdfs/brightgrid.pdf",
+    "timestamp": "2025-05-02T09:00:00Z"
+  },
+  {
+    "id": "node-energy-beat",
+    "text": "Energy Beat reports on the BrightGrid Initiative: pilot microgrid will provide 5MW solar backup for three hospitals starting this summer, citing the agency whitepaper.",
+    "source": "Energy Beat",
+    "channel": "news",
+    "url": "https://energybeat.example/brightgrid",
+    "timestamp": "2025-05-02T13:40:00Z"
+  },
+  {
+    "id": "node-tech-capsule",
+    "text": "Tech Capsule blog paraphrases the BrightGrid plan, noting phased deployment and hospital resilience upgrades.",
+    "source": "Tech Capsule",
+    "channel": "blog",
+    "url": "https://techcapsule.example/brightgrid",
+    "timestamp": "2025-05-02T17:10:00Z"
+  },
+  {
+    "id": "node-hospital-social",
+    "text": "@CentralCare posts: Proud to join BrightGrid microgrid pilot bringing 5MW solar backup to our campus this summer!",
+    "source": "@CentralCare",
+    "channel": "social",
+    "url": "https://social.example/posts/brightgrid",
+    "timestamp": "2025-05-02T18:05:00Z"
+  },
+  {
+    "id": "node-grid-analyst",
+    "text": "Grid Analyst newsletter summarizes BrightGrid Initiative phases and adds commentary on regional demand response benefits.",
+    "source": "Grid Analyst",
+    "channel": "blog",
+    "url": "https://gridanalyst.example/brightgrid-summary",
+    "timestamp": "2025-05-03T09:30:00Z"
+  },
+  {
+    "id": "node-solar-radio",
+    "text": "Morning Radio briefs listeners: Energy Department's BrightGrid pilot will deliver 5MW solar backup to three hospitals by late summer, improving resilience.",
+    "source": "WRGX Radio",
+    "channel": "news",
+    "url": "https://wrgx.example/brightgrid",
+    "timestamp": "2025-05-03T11:05:00Z"
+  },
+  {
+    "id": "node-investor-note",
+    "text": "Investor note references BrightGrid Initiative as a model for public-private microgrid financing, summarizing key numbers from the whitepaper.",
+    "source": "NorthCapital Advisors",
+    "channel": "blog",
+    "url": "https://northcapital.example/memo",
+    "timestamp": "2025-05-03T15:20:00Z"
+  },
+  {
+    "id": "node-solar-weekly",
+    "text": "Weekly energy recap: BrightGrid microgrid pilot enters design stage; analysts expect faster adoption if summer heatwaves persist.",
+    "source": "Energy Beat",
+    "channel": "news",
+    "url": "https://energybeat.example/weekly",
+    "timestamp": "2025-05-04T19:10:00Z"
+  },
+  {
+    "id": "node-supply-memo",
+    "text": "Port Authority memo: \"Two container terminals face staffing shortages leading to 36-hour processing delays\" and outlines rerouting plans.",
+    "source": "Harbor Port Authority",
+    "channel": "pdf",
+    "url": "https://port.example/memo.pdf",
+    "timestamp": "2025-05-03T07:45:00Z"
+  },
+  {
+    "id": "node-maritime-journal",
+    "text": "Maritime Journal reports staffing shortages at two container terminals causing 36-hour processing delays, citing the port memo.",
+    "source": "Maritime Journal",
+    "channel": "news",
+    "url": "https://maritime.example/delays",
+    "timestamp": "2025-05-03T12:50:00Z"
+  },
+  {
+    "id": "node-logistics-blog",
+    "text": "Logistics Ledger blog paraphrases the port memo and adds that rerouting plans focus on rail partnerships.",
+    "source": "Logistics Ledger",
+    "channel": "blog",
+    "url": "https://logisticsledger.example/port-delays",
+    "timestamp": "2025-05-03T14:05:00Z"
+  },
+  {
+    "id": "node-supply-social",
+    "text": "@FreightFacts tweets: Port memo warns two terminals face staffing shortages causing 36-hour delays; importers should expect late arrivals.",
+    "source": "@FreightFacts",
+    "channel": "social",
+    "url": "https://social.example/posts/freightfacts",
+    "timestamp": "2025-05-03T15:00:00Z"
+  },
+  {
+    "id": "node-retail-brief",
+    "text": "Retail Brief newsletter summarizes the port staffing shortages and notes apparel shipments are prioritized in the rerouting plan.",
+    "source": "Retail Brief",
+    "channel": "blog",
+    "url": "https://retailbrief.example/port-update",
+    "timestamp": "2025-05-03T18:20:00Z"
+  },
+  {
+    "id": "node-trade-radio",
+    "text": "Trade Radio bulletin: Port Authority says two container terminals face 36-hour delays but rerouting should ease backlog within the week.",
+    "source": "Trade Radio",
+    "channel": "news",
+    "url": "https://traderadio.example/port-delay",
+    "timestamp": "2025-05-03T21:10:00Z"
+  },
+  {
+    "id": "node-supply-analyst",
+    "text": "SupplyChain Insights daily notes rail partners absorbing overflow from the port staffing shortage and estimates backlog clearing by mid-week.",
+    "source": "SupplyChain Insights",
+    "channel": "blog",
+    "url": "https://supplychain.example/daily",
+    "timestamp": "2025-05-04T08:30:00Z"
+  },
+  {
+    "id": "node-importers-call",
+    "text": "Importer association call recap quotes port officials: \"processing delays down to 24 hours\" after rerouting actions.",
+    "source": "Importer Association",
+    "channel": "news",
+    "url": "https://importers.example/call",
+    "timestamp": "2025-05-04T14:50:00Z"
+  },
+  {
+    "id": "node-freight-weekly",
+    "text": "Freight Weekly wrap: staffing shortage ripple easing; backlog expected to clear by Wednesday according to port officials.",
+    "source": "Freight Weekly",
+    "channel": "news",
+    "url": "https://freightweekly.example/wrap",
+    "timestamp": "2025-05-05T09:10:00Z"
+  }
+]
